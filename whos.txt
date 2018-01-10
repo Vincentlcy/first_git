@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcde
+=======
+abcd
+>>>>>>> c0147022cb8ceec4f5affcd2019b9baf038ec778
